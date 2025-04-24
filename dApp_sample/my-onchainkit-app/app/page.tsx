@@ -10,6 +10,7 @@ import {
   NFTMintButton,
 } from "@coinbase/onchainkit/nft/mint";
 
+//first classwork
 export default function Page() {
   return (
     <NFTMintCard contractAddress="0x5E460559B2d57373a5D03CC096FaFFd021CE39F7">
